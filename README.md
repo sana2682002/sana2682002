@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Sana Orsho!  
-<a href='https://www.linkedin.com/in/YOUR-LINKEDIN/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://github.com/YOUR-GITHUB'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/sana-orsho-818621249/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://github.com/sana2682002'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/assets/github.svg" height='18px'/></a>
 
 <br/>
 
